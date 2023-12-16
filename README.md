@@ -1,4 +1,15 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+Developed an e-commerce web application by taking inspiration from big shopping applications
+like Amazon, and Flipkart. It has both the mobile view and desktop view which is done by making
+use of the CSS media queries it contains different routes and it is a single-page application
+built with different components. ● First the user has to log in using a username and password after giving the details
+authentication will be done if the user details are correct then he will enter into
+the home page of the application, or else the user will get an error message. ● On the header component there will be major routes Home, Products, Cart, and Logout.If the user clicks on any component then he will be routed to
+that specific component. Each route has several operations which gives more
+clarity for the user. ● In the products route all the items will be displayed by making an API call and
+in this route, there are prime deals and non-prime deals for the users. The
+prime deals can be accessed by specific users who have the authorization for the
+prime deals and there are several operations like rating, searching, and sorting to
+get the product items as we want. Technologies used: HTML, CSS, JS, Bootstrap, JS, Reactjs , REST API calls
 
 ### Refer to the video below:
 
